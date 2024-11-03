@@ -1,6 +1,7 @@
 // script.js
 let currentIndex = 0;
 const images = [
+    "202410282321542.png",
 ];
 
 function showNextImage() {
